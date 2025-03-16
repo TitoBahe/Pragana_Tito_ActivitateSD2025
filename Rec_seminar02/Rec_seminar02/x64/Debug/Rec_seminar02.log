@@ -1,0 +1,8 @@
+﻿  Seminar1.c
+C:\Users\stud\source\repos\Rec_seminar02\Rec_seminar02\Seminar1.c(16,35): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\stud\source\repos\Rec_seminar02\Rec_seminar02\Seminar1.c(17,2): warning C4013: 'strcpy_s' undefined; assuming extern returning int
+C:\Users\stud\source\repos\Rec_seminar02\Rec_seminar02\Seminar1.c(90,36): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\stud\source\repos\Rec_seminar02\Rec_seminar02\Seminar1.c(95,49): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\stud\source\repos\Rec_seminar02\Rec_seminar02\Seminar1.c(96,49): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\stud\source\repos\Rec_seminar02\Rec_seminar02\Seminar1.c(97,52): warning C4305: 'function': truncation from 'double' to 'float'
+  Rec_seminar02.vcxproj -> C:\Users\stud\source\repos\Rec_seminar02\x64\Debug\Rec_seminar02.exe

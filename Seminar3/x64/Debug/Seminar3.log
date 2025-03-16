@@ -1,0 +1,3 @@
+﻿  seminar.c
+C:\Users\stud\source\repos\Seminar3\seminar.c(71,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Seminar3.vcxproj -> C:\Users\stud\source\repos\Seminar3\x64\Debug\Seminar3.exe
