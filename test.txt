@@ -1,0 +1,4 @@
+tito,10,2,brazilia
+ionut,1,1,romania
+andrei,10,10,moldovia
+Kristian,11,11,albania

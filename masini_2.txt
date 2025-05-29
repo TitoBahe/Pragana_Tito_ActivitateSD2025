@@ -1,0 +1,5 @@
+1,5000,Ionescu,C
+2,8000,Vasilescu,S
+3,9000,Popescu,A
+1,5000,Tito,B
+4,4000,Gheorghe,B
